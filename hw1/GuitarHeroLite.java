@@ -28,7 +28,7 @@ public class GuitarHeroLite {
 
         /* advance the simulation of each guitar string by one step */
             stringA.tic();
-            stringC.tic();
+            stringC.tic(); //hhhhh
         }
     }
 }
